@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1><?php
-        echo "HOLA MUNDO DESDE PHP";
+        echo "HOLA MUNDO DESDE PHP INCRUSTADO";
     ?></h1>
 </body>
 </html>
